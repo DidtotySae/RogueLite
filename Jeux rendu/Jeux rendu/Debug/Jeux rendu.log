@@ -1,0 +1,8 @@
+﻿  Jeux rendu.cpp
+C:\Users\Didtoty\source\repos\Jeux rendu\Jeux rendu\Jeux rendu.cpp(23,20): warning C4018:  '<' : incompatibilité signed/unsigned
+C:\Users\Didtoty\source\repos\Jeux rendu\Jeux rendu\Jeux rendu.cpp(25,21): warning C4018:  '<' : incompatibilité signed/unsigned
+  Map.cpp
+  Player.cpp
+  Génération de code en cours...
+C:\Users\Didtoty\source\repos\Jeux rendu\Jeux rendu\Jeux rendu.cpp(73,20): warning C4018:  '<' : incompatibilité signed/unsigned
+  Jeux rendu.vcxproj -> C:\Users\Didtoty\source\repos\Jeux rendu\Debug\Jeux rendu.exe
